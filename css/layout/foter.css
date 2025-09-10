@@ -394,3 +394,29 @@ p {
 .mnj{
     margin-left: 10px;
 }
+.btn9876:hover{
+   color: white;
+   background-color:#ee8d63;
+transition: 0.5s;
+}
+.hero-img:hover{
+box-shadow: 5px 5px 10px gray;
+border-radius: 30px;
+}
+.hero-img{
+    transition: 0.5s;
+}
+.chjh:hover{
+    box-shadow: 1px 1px 10px gray;
+}
+.chjh{
+    transition: 0.5s;
+}
+.hero-hsd:hover {
+    box-shadow: 1px 1px 10px gray;
+}
+
+.hero-hsd{
+    transition: 0.5s;
+}
+
