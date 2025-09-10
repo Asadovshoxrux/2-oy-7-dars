@@ -1,5 +1,5 @@
 header {
-    background-color: #C4C4C4;
+    background-color: white;
     position: fixed;
     top: 0;
     width: 100%;
@@ -22,17 +22,17 @@ header {
 
     border: none;
     color: aliceblue;
-    background-color: rgb(29, 5, 44);
+    background-color: rb(29, 5, 44);
    
     display: block;
 }
 
 .btns-2 {
-    width: 60px;
+    max-width: 150px;
     height: 30px;
     border-radius: 10px;
     border: none;
-    background-color: #FF6E30;
+    background-color: black;
     color: aliceblue;
 
 display: block;
